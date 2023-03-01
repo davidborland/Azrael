@@ -1,5 +1,5 @@
 # Azrael
-Code for [Spectacular Justice](https://renci.org/news/spectacular-justice-uses-art-and-technology-to-examine-the-death-penaltyspectacular-justice-uses-art-and-technology-to-examine-the-death-penalty) project
+Code for [Spectacular Justice](https://renci.org/news/spectacular-justice-uses-art-and-technology-to-examine-the-death-penaltyspectacular-justice-uses-art-and-technology-to-examine-the-death-penalty) project.
 
 Referenced in:
 
